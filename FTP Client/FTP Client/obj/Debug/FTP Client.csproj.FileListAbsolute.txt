@@ -1,0 +1,6 @@
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\FTP Client\FTP Client\bin\Debug\FTP Client.exe.config
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\FTP Client\FTP Client\bin\Debug\FTP Client.exe
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\FTP Client\FTP Client\bin\Debug\FTP Client.pdb
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\FTP Client\FTP Client\obj\Debug\FTP Client.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\FTP Client\FTP Client\obj\Debug\FTP Client.exe
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\FTP Client\FTP Client\obj\Debug\FTP Client.pdb
